@@ -1,7 +1,9 @@
 {
-    "status": 0,
-    "msg": "请求成功",
-    "data": [
+    "comments": [
+        {"id":1,"comment":"你好世界"},
+        {"id":2,"comment":"I'm fine thank you ,and you?"}
+    ],
+    "persons": [
         {
             "id": 1,
             "name": "张三",
